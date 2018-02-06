@@ -1,0 +1,11 @@
+{
+    "serial_num":"wc19f7d3",
+    "sleep_time":2,
+    "tap_area":{"left":0,"top":0,"right":540,"bottom":540},
+    "screenshot_name":"current_sc.png",
+    "last_screenshot_name":"last_sc.png",
+    "pawn_img_name":"pawn.png",
+    "screen_size":{"width":1080,"height":1920},
+    "dists":[50,90,150,200,250,295,330,440,525],
+    "factors":[11,7,2.1,1.92,1.86,1.82,1.78,1.76,1.71,1.68]
+}

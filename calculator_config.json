@@ -1,0 +1,9 @@
+{
+    "pawn_img_path":"pawn.png",
+    "size":{"width":1080,"height":1920},
+    "search_area_whole":{"left":10,"top":500,"right":1000,"bottom":1500},
+    "search_area_left":{"left":100,"top":500,"right":540,"bottom":1500},
+    "search_area_right":{"left":540,"top":500,"right":1000,"bottom":1500},
+    "main_flag_pos":{"x":336,"y":921},
+    "other_flag_pos":[{"x":336,"y":1125}]
+}
